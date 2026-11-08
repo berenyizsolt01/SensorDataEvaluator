@@ -55,7 +55,7 @@ namespace MeresiAdatEllenorzo
                 }
             }
 
-            Console.WriteLine("\n- Összegzés -");
+            Console.WriteLine("\n-Összegzés-");
             Console.WriteLine($"Összes beolvasott sor: {sorok.Length}");
             Console.WriteLine($"Jó mérések: {joMeresekSzama}");
             Console.WriteLine($"Selejt mérések: {selejtMeresekSzama}");
